@@ -1,0 +1,1 @@
+Created new file on Github to practice pull action on the Intellij
